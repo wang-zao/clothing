@@ -37,7 +37,7 @@ class App extends React.Component {
         });
       };
 
-      this.setState({ currentUser: userRef });
+      this.setState({ currentUser: userAuth });
 
     });
 
