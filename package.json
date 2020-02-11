@@ -33,5 +33,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:wang-zao/clothing.git",
+  "author": "wang-zao <hunhunoyushui@126.com>",
+  "license": "MIT"
 }
